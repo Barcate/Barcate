@@ -33,7 +33,7 @@ Welcome to my profile!! 👀
   <a href="https://www.instagram.com/math.c.barbosa" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
-  <a href="mateusbosa21@gmail.com" target="blank">
+  <a href="mailto:mateusbosa21@gmail.com" target="blank">
     <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
