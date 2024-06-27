@@ -37,3 +37,8 @@ Welcome to my profile!! 👀
     <img align="center" src="https://img.shields.io/badge/-Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
   </a>
 </p>
+
+## 
+
+
+[![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FBarcate&count_bg=%233D53C8&title_bg=%23000000&icon=probot.svg&icon_color=%230035ED&title=Vizualiza%C3%A7%C3%B5es&edge_flat=false)](https://hits.seeyoufarm.com)
