@@ -1,21 +1,18 @@
-<!-- Language selector -->
 <p align="right">
-  <a href="README.md">
-    <img src="https://img.shields.io/badge/🇺🇸_English-161B22?style=for-the-badge" alt="English"/>
-  </a>
-  <a href="README.pt-BR.md">
-    <img src="https://img.shields.io/badge/🇧🇷_Português-30363D?style=for-the-badge" alt="Português"/>
-  </a>
+  <a href="README.md">🇺🇸 English</a> · <a href="README.pt-BR.md">🇧🇷 Português</a>
 </p>
 
-<!-- Header -->
 <div align="center">
 
 # Matheus Barbosa
 
-### Developer · Robotics Enthusiast · Technology Explorer
+### Developer · Web Development · Electronics & Automation
 
-Brazilian developer studying at **IFSP**, passionate about software development, robotics, and building creative projects with technology.
+Brazilian developer focused on building digital experiences, exploring electronics, and combining software with real-world technology.
+
+🎓 **Education**
+- Information Technology for the Internet (TII) — Completed
+- Electroelectronics — In progress, expected completion in 2026
 
 [![GitHub](https://img.shields.io/badge/GitHub-Barcate-181717?style=flat-square&logo=github)](https://github.com/Barcate)
 [![Instagram](https://img.shields.io/badge/Instagram-math.c.barbosa-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/math.c.barbosa)
@@ -27,20 +24,58 @@ Brazilian developer studying at **IFSP**, passionate about software development,
 
 ## 👨‍💻 About Me
 
-- 🎓 Currently studying at **IFSP**.
-- 🤖 Interested in robotics, electronics, and automation.
-- 💻 Exploring software development and modern web technologies.
-- 🛠️ I enjoy learning by building projects and solving real-world problems.
+I'm a developer interested in the intersection of software, electronics, and automation. I enjoy turning ideas into functional projects, experimenting with technologies, and continuously expanding my technical skills.
+
+- 💻 Web development and interactive digital experiences.
+- ⚙️ Desktop applications and software development.
+- 🤖 Robotics, Arduino, electronics, and automation.
+- 🔌 Electrical systems and industrial components.
+- 🎮 3D modeling and creative technology projects.
+- 🚀 Always learning and building new things.
 
 ## 🧰 Technologies & Tools
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,bootstrap,react,nodejs,python,php,java,mysql,git,arduino,androidstudio&theme=dark" alt="Technologies and tools"/>
+**Programming Languages**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=js,python,php,java&theme=dark" alt="JavaScript, Python, PHP and Java"/>
 </p>
 
-<p align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="3ds Max" width="42" height="42"/>
+**Web Development**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=html,css,bootstrap,react,vite,nodejs,wordpress&theme=dark" alt="HTML, CSS, Bootstrap, React, Vite, Node.js and WordPress"/>
 </p>
+
+**Desktop Development & Development Tools**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=electron,git,github,vscode&theme=dark" alt="Electron, Git, GitHub and Visual Studio Code"/>
+</p>
+
+**Databases, Electronics & 3D**
+
+<p>
+  <img src="https://skillicons.dev/icons?i=mysql,arduino,threejs&theme=dark" alt="MySQL, Arduino and Three.js"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/threedsmax/threedsmax-original.svg" alt="3ds Max" width="48" height="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/androidstudio/androidstudio-plain.svg" alt="Android Studio" width="48" height="48"/>
+</p>
+
+**Additional Technologies & Areas**
+
+- GSAP — Web animations and interactive interfaces.
+- Three.js — Real-time 3D graphics on the web.
+- Google Tag Manager & Meta Pixel — Website tracking and marketing analytics.
+- Tinkercad — 3D prototyping and design.
+- G-code — Machine instruction generation.
+- Industrial electronics, electrical components, and automation concepts.
+
+## 🛠️ What I'm Exploring
+
+- ✨ Advanced animations and immersive web experiences.
+- 🖥️ Desktop applications with Electron and modern web technologies.
+- 🤖 Software integrated with electronics and physical systems.
+- 🎨 Creative development, 3D, and interactive interfaces.
 
 ## 📊 GitHub Statistics
 
@@ -49,16 +84,14 @@ Brazilian developer studying at **IFSP**, passionate about software development,
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barcate&layout=compact&theme=github_dark&hide_border=true" alt="Most used languages"/>
 </div>
 
-## 📬 Get in Touch
-
-Interested in technology, development, or collaboration? Feel free to reach out!
+## 📬 Contact
 
 <p align="center">
   <a href="https://www.instagram.com/math.c.barbosa">
     <img src="https://img.shields.io/badge/Instagram-Follow%20me-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram"/>
   </a>
   <a href="mailto:mateusbosa21@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-Send%20an%20email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    <img src="https://img.shields.io/badge/Gmail-Email%20me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
   </a>
 </p>
 
@@ -66,6 +99,6 @@ Interested in technology, development, or collaboration? Feel free to reach out!
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Barcate&color=6C63FF&style=flat-square&label=Profile+Views)
 
-*Always learning. Always building.*
+*Building ideas into reality, one project at a time.*
 
 </div>
